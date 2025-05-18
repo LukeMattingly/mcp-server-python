@@ -3,9 +3,9 @@ Activate python virtual environment
 
 
 to run with local mcp inspector mode, which works against the server
-```uv run mcp dev server.py   ```
+```uv run mcp dev app.py   ```
 
 Install the server in claude desktop to itneract with it
-```uv run mcp install server.py```
+```uv run mcp install app.py```
 
 
